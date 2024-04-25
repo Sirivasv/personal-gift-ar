@@ -1,2 +1,5 @@
 # personal-gift-ar
-AR gifts.
+AR gift.
+
+# 3D model credits
+"Bagel seal" (https://skfb.ly/ooo9L) by Jerry Bot (https://sketchfab.com/jer1) is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).

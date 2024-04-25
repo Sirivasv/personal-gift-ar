@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bagel Seal
+* source:	https://sketchfab.com/3d-models/bagel-seal-01ce23ef2f7f452393d7c52adbe1e7a3
+* author:	Jerry Bot (https://sketchfab.com/jer1)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bagel Seal" (https://sketchfab.com/3d-models/bagel-seal-01ce23ef2f7f452393d7c52adbe1e7a3) by Jerry Bot (https://sketchfab.com/jer1) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
