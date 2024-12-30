@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bust of Virginia Woolf, Tavistock Sq. London
+* source:	https://sketchfab.com/3d-models/bust-of-virginia-woolf-tavistock-sq-london-f447a710981a4e75a1800ee386326046
+* author:	Thomas Flynn (https://sketchfab.com/nebulousflynn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bust of Virginia Woolf, Tavistock Sq. London" (https://sketchfab.com/3d-models/bust-of-virginia-woolf-tavistock-sq-london-f447a710981a4e75a1800ee386326046) by Thomas Flynn (https://sketchfab.com/nebulousflynn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
